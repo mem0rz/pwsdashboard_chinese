@@ -1,0 +1,770 @@
+# $scrpt_vrsn_dt = 'lang_zh-cn.txt|01|2024-04-17|';  # release 2012_lts
+
+# units
+ |/h|/h|
+ |/m|/m|
+ |and|and|
+ |Bft|级风|
+ |C|C|
+ |Celsius|摄氏度|
+ |cm|cm|
+ |F|F|
+ |Fahrenheit|华氏度|
+ |feet|英寸|
+ |Hours|小时|
+ |hPa|hPa|
+ |hrs |小时|
+ |Hrs|Hrs|
+ |hrs|小时|
+ |inHg|inHg|
+ |in|英寸|
+ |KM/H|KM/H|
+ |km/h|km/h|
+ |km|km|
+ |KMs|KMs|
+ |kph|kph|
+ |KTS|海里|
+ |Kts|海里|
+ |M/S|M/S|
+ |m/s|m/s|
+ |mile|英里|
+ |Miles|英里|
+ |min |分钟|
+ |mins |mins |
+ |minutes|分钟|
+ |mm|mm|
+ |MPH|MPH|
+ |mph|mph|
+ |mt|mt|
+ |secs |secs |
+
+# months short
+ |Apr |四月 |
+ |Aug |八月 |
+ |Dec |十二月 |
+ |Feb |二月 |
+ |Jan |一月 |
+ |Jul |七月 |
+ |Jun |六月 |
+ |Mar |三月 |
+ |May |五月 |
+ |Nov |十一月 |
+ |Oct |十月 |
+ |Sep |几月 |
+
+# months long
+ |April|四月|
+ |August|8月|
+ |December|十二月|
+ |February|二月|
+ |January|一月|
+ |July|七月|
+ |June|六月|
+ |March|三月|
+ |May|五月|
+ |November|十一月|
+ |October|十月|
+ |September|九月|
+
+# days short
+ |Fri |周五|
+ |Mon |周一|
+ |Sat |周六|
+ |Sun |周日|
+ |Thu |周四 |
+ |Thur |周四|
+ |Tue |周二|
+ |Wed |周三|
+
+# days long
+ |Friday|星期五|
+ |Monday|星期一|
+ |Saturday|星期六|
+ |Sunday|星期天|
+ |Thursday|星期四|
+ |Tuesday|星期二|
+ |Wednesday|星期三|
+
+# dayparts
+ |Afternoon|上午|
+ |afternoon|上午|
+ |Evening|晚上|
+ |evening|晚上|
+ |Morning|早上|
+ |morning|早上|
+ |Night time|夜间|
+ |Night|夜晚|
+ |night|夜晚|
+
+# compass
+ |E|东|
+ |East|东|
+ |ENE|东东北|
+ |ESE|东东南|
+ |N|北|
+ |NE|东北|
+ |NNE|北北东|
+ |NNW|北北西|
+ |North|北|
+ |NW|西北|
+ |S|南|
+ |SE|东南|
+ |South|南|
+ |SSE|南东南|
+ |SSW|南西南|
+ |SW|西南|
+ |W|西|
+ |West|西|
+ |WNW|西西北|
+ |WSW|西西南|
+
+# common
+ |All time|全部时间|
+ |any day|任意一天|
+ |any month|任意月份|
+ |any year|任意年|
+ |Average|平均 |
+ |Avg |平均 |
+ |avg|平均|
+ |by|by|
+ |Close|关闭|
+ |Current|目前|
+ |current|目前|
+ |Daily|每日|
+ |Day|日|
+ |days|日|
+ |Description|描述|
+ |Distance|距离|
+ |Falling Rapidly|快速下降|
+ |Falling Slowly|缓慢下降|
+ |Falling|下降|
+ |Force|Force|
+ |Forecast for|预测|
+ |forecast|预测|
+ |from|from|
+ |Graph type|图标类型|
+ |here|这里|
+ |History|历史|
+ |Hourly|按小时|
+ |Information|信息|
+ |Last Hour|过去一小时|
+ |Last Updated|最近更新|
+ |Link|链接|
+ |Max|最大|
+ |Min|最小|
+ |Month|月|
+ |Never base important decisions that could result in harm to people or property on this weather information.|切勿根据这些天气信息做出可能导致人员或财产损失的重要决定。|
+ |No valid sensors found|未找到有效传感器|
+ |Offline|离线|
+ |Online|在线|
+ |Period|期间|
+ |Powered by|Powered by|
+ |Rising Rapidly|快速上升|
+ |Rising Slowly|缓慢上升|
+ |Rising|上升|
+ |Select|选择|
+ |Steady|稳定|
+ |the last|最近|
+ |Time|时间|
+ |Today|今天|
+ |today|今天|
+ |Tomorrow|明天|
+ |Tonight|今晚|
+ |Updated|已更新|
+ |Year|年|
+ |Yesterday|昨天|
+
+# notifications
+ |Heat Exhaustion|中暑|
+ |Heat Index Caution|高温指数注意|
+ |Lightning Strike Alert Detected|检测到雷击警报|
+ |Notification|提醒|
+ |Notifications|提醒|
+ |Reduce Sun Exposure|减少阳光照射|
+ |seconds ago|秒前|
+ |UV-Index Caution|紫外线指数注意|
+ |Wind Gusts Becoming Strong Caution Required|大风警告|
+ |Wind Gusts Reaching Gale Force|狂风警告|
+
+# blocks
+ |24h Avg|24小时平均|
+ |Airport|机场|
+ |Annual Rainfall|年降雨量|
+ |Aurora|极光|
+ |Currentsky|当前天空|
+ |Details|细节|
+ |Enlarge|放大|
+ |Environment Canada forecast|加拿大环境部预测|
+ |for the last|最近|
+ |Forecast|天气预报|
+ |Full page|展开全页|
+ |Indoor Temperature|室内温度|
+ |LiveWebCam|实时网络摄像机|
+ |Map|地图|
+ |Max-Min Temperature|最高-最低温度|
+ |Meteors|流星|
+ |Moon info|月亮信息|
+ |Moonphase information|月相信息|
+ |Movie|电影|
+ |Official AQ sensor station|官方空气质量传感器站|
+ |One hour forecast|一小时预报|
+ |Our WXSIM forecast|WXSIM 预测|
+ |Outside|室外|
+ |Radar|雷达|
+ |Rainfalltoday|今日雨量|
+ |Solar - UV-Index - Lux|太阳 - UV指数 - Lux|
+ |Station weather history|气象站历史|
+ |Station|站点|
+ |stored at WU|储存在wunderground|
+ |SunPosition|太阳位置|
+ |Texts|稳定|
+ |UV Guide|紫外线防护指南|
+ |WeatherUnderground forecast|WeatherUnderground 预报|
+ |Wind - Gust|风 - 阵风|
+
+# soil-moist
+ |Adequate|重组|
+ |Current planting and watering guide|当前种植和浇水指南|
+ |Dangerous Dry|干燥警报|
+ |ERROR no reading|错误-无法读取|
+ |Explanation|说明|
+ |Irrigation desired|期望灌溉|
+ |Irrigation needed|需要灌溉|
+ |Moisture|湿度|
+ |Saturated|饱和状态|
+ |Soil info|土壤信息|
+ |Soil sensor - more information|土壤传感器 - 更多信息|
+
+# soil-moist explain
+ |Saturated Soil. Occurs for a day or two after irrigation.|饱和土壤。灌溉后一到两天出现。|
+ |Soil is adequately wet (except coarse sands which are drying out at this range)|土壤足够湿润（粗砂土除外，因为在此范围内，粗砂土会变得干燥）|
+ |Soil is becoming dangerously dry for maximum production.|土壤变得非常干燥，这对最大限度地提高产量非常危险。|
+ |Usual range to irrigate heavy clay soils|重粘土灌溉的典型范围|
+ |Usual range to irrigate or water (except heavy clay soils)<br />Irrigate at the upper end of this range in cool humid climates and with higher water-holding capacity soils.|需要灌溉或浇水的通常区间（重粘土除外）<br />在凉爽潮湿的气候条件下和保水能力较强的土壤中，灌溉应在此区间的上限。|
+
+# soil-temp
+ |Deep freeze|完全冰冻|
+ |Frost line|霜冻线|
+ |Ideal growth|理想的生长状态|
+ |Minimum growth|最低增长|
+ |Optimal growth|最佳增长|
+ |Too cold to plant|天气太冷，无法种植|
+
+# advisory
+ |(Severe) thunderstorms possible|(可能有（强烈）雷暴|
+ |Below Freezing|零度以下|
+ |Caution|警告|
+ |Expect|等待|
+ |Firerisk|火灾风险|
+ |Flooding Possible|洪水风险|
+ |Have a nice day|祝您有美好的一天|
+ |Lightning Strike Nearby|附近雷击|
+ |Possible Storm Approaching|可能的风暴即将来临|
+ |Possible|可能|
+ |Radio Aurora Possible|电离层极光可能|
+ |This hour|本小时|
+ |This Week|本周|
+ |Viewing Possible|观看可能|
+
+# lightning
+ |Direction|方向|
+ |Last 3 hr|最近3小时|
+ |Latest strike at|最近一次雷击|
+ |Lightning strike|雷击|
+ |Lightning|雷电风暴|
+ |Nearby Lightning|附近的闪电|
+ |Nearby|附近地区|
+ |Total strikes|总雷击数|
+
+# bft_names
+ |Calm|无风|
+ |Fresh breeze|劲风|
+ |Gale force|大风|
+ |Gentle breeze|微风|
+ |Hurricane|台风|
+ |Light air|软风|
+ |Light breeze|轻风|
+ |Moderate breeze|和风|
+ |Near gale|疾风|
+ |Storm|狂风|
+ |Strong breeze|烈风|
+ |Strong gale|烈风|
+ |Violent storm|暴风|
+#根据cma.gov.cn风力等级表对照bft等级表翻译
+# w-names common
+ |Barometer|气压计|
+ |Dewpoint|露点|
+ |ET|ET|
+ |Feels like|体感|
+ |Feels|体感|
+ |Gust|阵风|
+ |Heatindex|Í高温指数|
+ |Humidity|湿度|
+ |Indoor|室内|
+ |Leaf wetness|叶片湿润度|
+ |Precipitation|降水量|
+ |precipitation|降水量|
+ |Pressure|气压|
+ |Rainfall|降雨量|
+ |Rate|降雨率|
+ |Solar|太阳能量|
+ |Speed|速度|
+ |Temp|温度|
+ |Temperature|温度|
+ |UV index|UV指数|
+ |UV|UV|
+ |UVI|UVI|
+ |Wet Bulb|湿泡温度|
+ |Wind Run|风程|
+ |Wind run|风程|
+ |Wind|风|
+ |Windchill|风温|
+ |Winddirection|风向|
+ |Windspeed|风速|
+
+# meteors
+ |Active Sky Events|天气活动事件|
+ |Annual Meteor Showers|年度流星雨|
+ |Annular|Anular|
+ |Current Events|目前事件|
+ |Data Provided by|数据提供|
+ |Eclipse|日蚀|
+ |Guide|指南|
+ |Lunar|月|
+ |Meteor Shower|流星雨|
+ |Meteor Showers|流星雨|
+ |Next Events|下次事件|
+ |No Active Sky Events|没有活跃的天空事件|
+ |Partial|局部|
+ |Peak|峰值|
+ |Total|全部|
+ |Visible|可见|
+ |Wikipedia|Wikipedia|
+
+# meteors explain
+ |Any nearby ambientlight, Moonlight can make it difficult viewing.|附近的任何环境光、月光都会给观看带来困难。|
+ |Meteor showers are best viewed away from the city lights.|观看流星雨最好远离城市的灯光。|
+ |Meteors are best viewed during the night hours, though meteors enter the atmosphere at any time of the day.|尽管流星在一天中的任何时候都会进入大气层，但夜晚是观看流星的最佳时间。|
+ |They are just harder to see in the daylight apart from dawn and dusk.|它们会根据您的位置进行调整，从日出到日落都位于中间部分。|
+
+# aurora
+ |A-INDEX|A-INDEX|
+ |Excellent Aurora Viewing Possible|极佳的可能性观赏极光|
+ |Geomagnetic Major Storm|大地磁暴|
+ |Geomagnetic Severe Storm|强地磁暴|
+ |Geomagnetic Storm|地磁爆|
+ |High Latitude Aurora Viewing Possible|高纬度地区极光景象可能|
+ |High Latitude Radio Aurora|高纬度电离层极光|
+ |High Latitude Weak Radio Aurora|高纬度弱无线电极光|
+ |KP-INDEX|KP星球|
+ |KP-PLANETARY INDEX|KP星球指数|
+ |Major Storm|大磁暴|
+ |Mid to High Latitude Aurora Viewing Possible|Posibilidad de ver aurora de media a alta latitud|
+ |Mid-High Latitude Radio Aurora|Latitud Media-Alta Radio Aurora|
+ |Minor|Menor|
+ |No Aurora|无极光|
+ |No Radio Aurora|无无线电极光|
+ |NOT ACTIVE|非活动|
+ |Quiet No|Tranquilo, no|
+ |RADIO AURORA ACTIVE|无线电极光活动|
+ |Radio Aurora Indicators|无线电极光指标|
+ |Radio Aurora|无线电极光|
+ |Severe Storm|强磁暴|
+ |Strong Radio Aurora|强无线电极光|
+ |Visual Aurora Borealis/Northern Lights and VHF Radio Aurora Indicators|可见极光/北极光和VHF无线电极光指示器。|
+ |Weak High Latitude Aurora Viewing Possible|高纬度极光景象可能较弱|
+ |Weak|Débiles|
+
+# aurora explain
+ |is an indicator of possible enhanced VHF radio communication at a range of 1000 miles or more.|是在1600公里或更远的距离上可能增强VHF无线电通信的指标。|
+ |provides a good indicator of viewing the Aurora Borealis or Northern Lights.|提供了观赏极光或北极光的良好指标。|
+ |Strong solar activity may allow long-distance radio communications at 28-433 MHz in mid to high latitudes.|强烈的太阳活动可能会在中高纬度地区影响28-433MHZ的远距离无线电通信。|
+ |The estimated 3-hour Planetary Kp-index data is collected from ground-based magnetometers.|估计的3小时星球Kp指数数据是从地磁计收集的。|
+ |The higher the Kp-Index the greater the probability of viewing.|Kp 指数越高，观看到极光的概率越大。|
+
+# airquality
+ |1 hour|1小时|
+ |1 week|1周|
+ |10 min|10分钟|
+ |24 hour|24小时|
+ |24 hours|24小时|
+ |30 min|30分钟|
+ |6 hour|6小时|
+ |_1_hour|1 小时|
+ |_24_hour|24 小时|
+ |_3_hour|3 小时|
+ |Air Quality data from our own sensor|来自我们自己传感器的空气质量数据。|
+ |Air Quality Index|Air Quality指数|
+ |Air quality sensor|空气质量传感器|
+ |Air Quality|空气质量|
+ |AQI|AQ指数|
+ |Based on a common formula using the temperature & dewpoint, as recorded realtime from this weather station, an estimated height of the cloudbase is calculated.|根据该气象站实时记录的温度和露点的常用公式，可计算出云层的估计高度。|
+ |classification|分级|
+ |concentration|浓度|
+ |Critical Conditions|危急情况|
+ |Current cloudbase|目前Cloudbase
+ |Davis sensor|Davis传感器|
+ |EPA Air Quality Index|EPA空气质量指数|
+ |GoodAQ|空气质量良好|
+ |HazordousAQ|Calidad del aire peligrosa|
+ |iaqB|iaqB|
+ |Information on Air Quality|空气质量信息|
+ |Information on Cloudbase|Cloudbase信息|
+ |It is not a accurate tool it is a relative indicator.|这不是一个准确的工具，而是一个相对指标。|
+ |Last 24 hours|最近24小时|
+ |Last 7 days|最近7天|
+ |Life Threatening|危及生命|
+ |Luftdaten sensor|Luftdaten 传感器|
+ |max|max|
+ |min|min|
+ |ModerateAQ|空气质量中等|
+ |More information|更多信息|
+ |My city|我的城市|
+ |O3|O3|
+ |Our Davis AQ sensor|我们的Davis AQ传感器|
+ |Our Luftdaten AQ sensor|我们的Luftdaten AQ传感器|
+ |Our Luftdaten sensor|我们的Luftdaten传感器|
+ |Our measurement values above are real-time values|上述测量值为实时值|
+ |Our Purple AQ sensor|我们的Purple AQ传感器|
+ |Our PurpleAir sensor|我们的PurpleAir传感器|
+ |Our station AQ sensor|我们气象站的AQ传感器|
+ |Our station sensor|我们气象站传感器|
+ |Particle|颗粒|
+ |particle|颗粒|
+ |period|期间|
+ |pm10|pm10|
+ |pm1|pm1|
+ |pm2.5|pm2.5|
+ |PM25|pm2.5|
+ |pm_10|pm10|
+ |pm_2p5|pm2.5|
+ |Precautions Required|需要采取的预防措施|
+ |Purpleair sensor|Purpleair sensor|
+ |Risk|风险|
+ |Sensor data captured at|传感器数据采集于|
+ |Sensor_ID|传感器ID|
+ |Station ID|站点ID|
+ |Station sensor|站点传感器|
+ |The health effects should be based on 24 hours average values only.|对健康的影响应仅基于 24 小时的平均值。|
+ |UnhealthyAQ|不健康空气质量|
+ |UnhealthyFSAQ|敏感人群不健康空气质量|
+ |unkown / error in data|未知/错误数据|
+ |VeryUnhealthyAQ|空气质量极不健康|
+
+# airquality explain
+ |Air quality is acceptable; however, for some pollutants there may be a moderate health concern for a very small number of people who are unusually sensitive to air pollution.|空气质量是可以接受的；但是，对于极少数对空气污染异常敏感的人来说，某些污染物可能会对他们的健康造成中度影响。|
+ |Air quality is considered satisfactory, and air pollution poses little or no risk|空气质量令人满意，空气污染几乎不构成风险|
+ |Everyone may begin to experience health effects; members of sensitive groups may experience more serious health effects.|每个人都可能开始受到健康影响；敏感群体成员可能会受到更严重的健康影响。|
+ |Health alert: everyone may experience more serious health effects|健康警报：每个人都可能受到更严重的健康影响|
+ |Health warnings of emergency conditions. The entire population is more likely to be affected|紧急状况的健康警告。全体居民更有可能受到影响|
+ |Members of sensitive groups may experience health effects. The general public is not likely to be affected.|敏感人群可能会受到健康影响。一般公众不太可能受到影响。|
+
+# earthquake
+ |Click to sort the table on|单击可将表格排序|
+ |Coordinates|坐标|
+ |Dangerous|危险|
+ |Depth|震源深度|
+ |Earthquake information courtesy of|地震信息来源|
+ |Earthquake|地震|
+ |Earthquakes|地震|
+ |Great earthquake|地震|
+ |GreatE|地震|
+ |Largest|最大|
+ |Last Earthquake|上次地震|
+ |LightE|轻微地震|
+ |Magnitude|震幅|
+ |Major earthquake|地震|
+ |MajorE|地震|
+ |Minor earthquake|轻微地震|
+ |MinorE|轻微地震|
+ |Moderate earthquake|中度地震|
+ |ModerateE|中度地震|
+ |or on|或在|
+ |Regional earthquake|地区级地震|
+ |RegionalE|地区|
+ |Strong earthquake|强烈地震|
+ |StrongE|强烈地震|
+ |Table is sorted by|表格按以下方式排序|
+
+# sun/moon
+ |Azimuth|方位角|
+ |Current Moon cycle is|当前月亮周期为|
+ |Darkness|黑夜时长|
+ |day before|一天前|
+ |Daylight|日照时长|
+ |days old|天以前|
+ |Elevation|高度角|
+ |Estimated|估计|
+ |First Quarter|第一季度|
+ |Full Moon|满月|
+ |Luminance|亮度|
+ |Moon Phase / Sun-Moon  Rise-Set Information|月相/日月升落信息|
+ |Moon Rise/Set Information|月亮升起/降落信息|
+ |Moon|月|
+ |Moonphase|月相|
+ |Moonrise|月出|
+ |Moonset|月落|
+ |New Moon|新月|
+ |Next Full Moon|满月|
+ |Next New Moon|下一轮新月|
+ |Of Daylight|白天|
+ |Sun Rise/Set Information|日出/日落信息|
+ |Sun rose at|太阳升起于|
+ |Sun set|日落|
+ |Sun will set|太阳将落山|
+ |Sun|太阳|
+ |SunRise/Set|Salida del日出/日落|
+ |Sunrise|日出|
+ |Sunset|日落|
+ |Third Quarter|3/4|
+ |Till Sunrise|直到<br />日出|
+ |Till Sunset|直到日落|
+ |Waning Crescent|月牙|
+ |Waning Gibbous|月晕|
+ |Waxing Crescent|新月|
+ |Waxing Gibbous|月缺|
+
+# UV/solar/lux
+ |Brightness|亮度|
+ |Current UVINDEX Advisory|当前UV指数建议|
+ |CURRENT UVINDEX|当前UV指数|
+ |Excellent and Sustainable|优秀和可持续|
+ |Good and Sustainable|良好和可持续|
+ |Good to Excellent|良好至优秀|
+ |Index|级|
+ |Low |低|
+ |Low to Moderate|低至中|
+ |Lux Brightness|亮度Lux|
+ |Lux measurement|Lux测量|
+ |Lux|Lux|
+ |Moderate to Good|中等至良好|
+ |None |无 |
+ |Poor |少|
+ |Solar Energy Replenishment|太阳能充电|
+ |Solar Radiation|太阳辐射|
+ |Ultraviolet|UV指数|
+
+# UV/solar/lux explain
+ |High risk of harm from unprotected sun exposure.|无保护地暴露在阳光下的危害风险高。|
+ |Low danger from the sun&apos;s UV rays for the average person|对普通人来说，太阳紫外线的危害较低|
+ |Measures the approximate human eye response to light under a variety of lighting conditions.|测量各种照明条件下人眼对光线的大致反应。|
+ |Moderate risk of harm from unprotected sun exposure.| 未加防护的阳光照射造成伤害的风险适中。|
+ |The total amount of all the light measured is known as the "luminous flux".|测量到的所有光线的总量称为 "光通量"。|
+ |Very high risk of harm from unprotected sun exposure. Take extra precautions.|在没有防护措施的情况下暴晒的危害风险非常高。采取额外的预防措施。|
+
+# metar
+ |Airport-code|机场代码|
+ |Current Conditions|当前情况|
+ |Heavy |重|
+ |Light |轻|
+ |Location|位置|
+ |Metar Aviation Weather Data|Metar 航空气象数据|
+ |Visibility|可视化|
+
+# menu
+ |air-quality.com|air-quality.com|
+ |Atlantic Ocean pressure map|大西洋气压图|
+ |Aurora info|极光信息|
+ |Awekas|Awekas|
+ |Contact Info|联系信息|
+ |CWOP|CWOP|
+ |Dark Theme|深色主题|
+ |DarkSky Forecast|Darksky预报|
+ |European Weather Network|欧洲气象网络|
+ |EXTRAS|EXTRAS|
+ |FIRST SETUP (protected)|配置 (protected)|
+ |Graphs|图形|
+ |History at WU |Historia en WU|
+ |History at WU|Historia en WU|
+ |Home| 首页|
+ |HWA|HWA|
+ |Imperial|英制|
+ |License|License|
+ |Light Theme|浅色主题|
+ |Luftdaten Map|空气数据地图|
+ |Maintained by|维护人|
+ |Menu|菜单|
+ |Metric|公制|
+ |NWS forecast|NWS预报|
+ |Official weather alarms|官方天气警报|
+ |Pacific Ocean pressure map|太平洋气压图|
+ |PurpleAir Map|PurpleAir Map|
+ |PwsWeather|pwsweather|
+ |pwsWeather|pwsweather|
+ |Reports at WU |由WU报告|
+ |Reports at WU|由WU报告|
+ |Scandinavia|国际标准 (M/S)|
+ |Select language|选择语言|
+ |Settings|设置|
+ |Station Theme|气象站主题|
+ |Stations data at WL.com|来的WL.COM的气象站数据|
+ |SUPPORT|支持|
+ |Template by|模板由|
+ |UK (MPH)|UK (MPH)|
+ |USER PREFERENCES|用户偏好|
+ |WEATHER NETWORKS|WEATHER NETWORKS|
+ |Weather Networks|Weather Networks|
+ |WeatherCloud|WeatherCloud|
+ |WeatherFlow map|WeatherFlow map|
+ |WeatherFlow_map|WeatherFlow_map|
+ |WeatherUnderground|WeatherUnderground|
+ |Web Cam|Cámara web|
+ |Wind forecast|Windy.com预报|
+ |WOW|WOW|
+ |WXSIM Forecast|WXSIM预报|
+ |YrNo Forecast|YrNo预报|
+
+# bio
+ |About copyrighted parts used in this template|关于本模板中使用的版权部分|
+ |Contact information|联系信息|
+ |Copyrighted material used|使用的版权材料|
+ |Credits, contact and|下载和支持|
+ |Download and support|下载和支持|
+ |Facebook|Facebook|
+ |For your remarks or questions|您的意见或问题|
+ |Legal information|法律信息|
+ |Mail|邮件|
+ |More information about the used website template and tools|关于所用模板和网站工具的更多信息|
+ |Our main website||我们的主网站|
+ |Twitter|Twitter|
+ |Website|Website|
+ |You can find us here also|您也可以在这里找到我们|
+
+# graphs
+ |Data from our weatherstation|数据来自我们的气象站|
+ |for this day|这一天|
+ |for this month|这一月|
+ |for this year|这一年|
+ |High|High |
+ |Low|Low|
+
+# snow
+ |Add measurement|增加测量|
+ |Current height|当前厚度|
+ |Date|数据|
+ |Fresh|新雪|
+ |Manual measurements|人工测量|
+ |Melted|融化|
+ |Snow measurements|积雪测量|
+ |Snowfall since last measurement|自上次测量以来的降雪量|
+ |Remove measurement|取消测量|
+
+# conditions
+ |blowing|吹风|
+ |Clear sky|晴空|
+ |Clear|晴空|
+ |Clouds|有云|
+ |Cloudy|多云|
+ |Conditions|环境|
+ |Drizzle|微雨|
+ |drizzle|微雨|
+ |dust|沙尘|
+ |Fair|晴|
+ |Fog|雾|
+ |fog|雾|
+ |freezing|冷冻|
+ |hail|冰雹|
+ |haze|雾霾|
+ |Heavy rain and thunder|大雷雨|
+ |Heavy rain showers and thunder|大阵雷雨|
+ |Heavy rain showers|大阵雨|
+ |Heavy rain|大雨|
+ |Heavy sleet and thunder|大雨夹雪伴雷|
+ |Heavy sleet showers and thunder|大阵雨夹雪伴雷|
+ |Heavy sleet showers|大阵雨夹雪|
+ |Heavy sleet|大雨夹雪|
+ |Heavy snow and thunder|大雪伴雷|
+ |Heavy snow showers and thunder|大阵雪伴雷|
+ |Heavy snow showers|大阵雪|
+ |Heavy snow|大雪|
+ |heavy|大|
+ |ice_crystals|冰晶|
+ |ice_pellets|冰粒|
+ |Isolated Light Showers|局部小阵雨|
+ |Isolated Showers|局部阵雨|
+ |Isolated|局部|
+ |Light rain and thunder|小雷雨|
+ |Light rain showers and thunder|小阵雷雨|
+ |Light Rain Showers|小阵雨|
+ |Light rain showers|小阵雨|
+ |Light rain|小雨|
+ |Light Showers|小阵|
+ |Light sleet and thunder|小雨夹雪伴雷|
+ |Light sleet showers|小阵雨夹雪|
+ |Light sleet|小雨夹雪|
+ |Light snow and thunder|小雪伴随雷|
+ |Light Snow Showers|小阵雪|
+ |Light snow showers|小阵雪|
+ |Light snow|小雪|
+ |Light Wintry Mix|小雨雪|
+ |light|小 |
+ |lightning|雷电|
+ |Lights sleet showers and thunder|小阵雨夹雪伴随雷电|
+ |Lights snow showers and thunder|小阵雪伴随雷电|
+ |Mist and Fog|雾霭|
+ |Mist|霭|
+ |mist|雾|
+ |moderate|中|
+ |Mostly Clear|大部晴朗|
+ |Mostly Cloudy|多云时阴|
+ |Mostly Scattered Clouds|多云|
+ |Mostly Sunny|晴时多云|
+ |Mostly|大部|
+ |or|或|
+ |Overcast|阴天|
+ |Partly Cloudy|局部多云|
+ |Partly cloudy|局部多云|
+ |Rain and thunder|雷雨|
+ |Rain showers and thunder|雷阵雨|
+ |Rain Showers Likely|可能有阵雨|
+ |Rain showers|阵雨|
+ |Rain|降雨|
+ |rain|降雨|
+ |sand|沙|
+ |Scattered Light Showers|零星小阵雨|
+ |Scattered Showers|零星阵雨|
+ |Scattered|零星的|
+ |showers,|阵雨|
+ |showers|阵雨|
+ |Sleet and thunder|雨夹雪伴随雷电|
+ |Sleet showers and thunder|阵雨夹雪伴随雷电|
+ |Sleet showers|阵雨夹雪|
+ |Sleet|雨夹雪|
+ |smoke|烟气|
+ |Snow and thunder|雪有雷|
+ |Snow showers and thunder|阵雪伴随雷电|
+ |Snow showers|阵雪|
+ |Snow|雪|
+ |snow|雪|
+ |squall|狂风|
+ |steady|稳定|
+ |storm|风暴|
+ |Sunny|晴天|
+ |thunderstorm|雷暴|
+ |tornado|龙卷风|
+ |unknown|位置|
+ |vulcanic_ash|火山灰|
+ |water_spout|水上龙卷风|
+ |widespread|广泛的|
+ |Windy|多风的|
+
+# extra sensors
+ |Extra block large|Extra block large|
+ |Extra block|Extra block|
+ |Extra sensors|Extra sensors|
+ |extra_hum1|extra_hum1|
+ |extra_hum2|extra_hum2|
+ |extra_hum3|extra_hum3|
+ |extra_hum4|extra_hum4|
+ |extra_hum5|extra_hum5|
+ |extra_hum6|extra_hum6|
+ |extra_hum7|extra_hum7|
+ |extra_hum8|extra_hum8|
+ |extra_tmp1|extra_tmp1|
+ |extra_tmp2|extra_tmp2|
+ |extra_tmp3|extra_tmp3|
+ |extra_tmp4|extra_tmp4|
+ |extra_tmp5|extra_tmp5|
+ |extra_tmp6|extra_tmp6|
+ |extra_tmp7|extra_tmp7|
+ |extra_tmp8|extra_tmp8|
