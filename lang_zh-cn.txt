@@ -234,6 +234,7 @@
  |Saturated|饱和状态|
  |Soil info|土壤信息|
  |Soil sensor - more information|土壤传感器 - 更多信息|
+ |Soil moist and temp info|土壤温湿度信息|
 
 # soil-moist explain
  |Saturated Soil. Occurs for a day or two after irrigation.|饱和土壤。灌溉后一到两天出现。|
@@ -631,7 +632,7 @@
  |You can find us here also|您也可以在这里找到我们|
 
 # graphs
- |Data from our weatherstation|数据来自我们的气象站|
+ |Data from our weatherstation|我们气象站的数据|
  |for this day|这一天|
  |for this month|这一月|
  |for this year|这一年|
@@ -745,7 +746,7 @@
  |unknown|位置|
  |vulcanic_ash|火山灰|
  |water_spout|水上龙卷风|
- |widespread|广泛的|
+ |widespread|extendido|
  |Windy|多风的|
 
 # extra sensors
